@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //wuzhanglong
+        //吴章龙中文测试
 
 
     }
